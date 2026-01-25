@@ -16,5 +16,5 @@ vim.keymap.set('v', '<C-v>', '"+p', { desc = "Paste from system clipboard" })
 -- vim.keymap.set('t', 'jj', '<C-\\><C-n>', { noremap = true, desc = 'Escape terminal mode' })
 -- jasldkjfasdlifj
 -- Map Tab to Escape in Insert mode
-vim.keymap.set("i", "<Tab>", "<Esc>")
-vim.keymap.set("t", "<Tab>", "<Esc>")
+-- vim.keymap.set("i", "<Tab>", "<Esc>")
+-- vim.keymap.set("t", "<Tab>", "<Esc>")
