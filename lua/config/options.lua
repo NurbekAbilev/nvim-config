@@ -11,3 +11,5 @@ vim.o.shiftwidth = 4 -- Number of spaces inserted when indent
 
 -- lsp
 vim.lsp.inlay_hint.enable(false)
+
+vim.opt.smartindent = true
